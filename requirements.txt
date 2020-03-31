@@ -12,7 +12,7 @@ autopep8==1.4.4
 backcall==0.1.0
 backports.csv==1.0.7
 beautifulsoup4==4.7.1
-bleach==3.1.0
+bleach==3.1.4
 blinker==1.4
 brotlipy==0.7.0
 cchardet==2.1.4
