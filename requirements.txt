@@ -89,7 +89,7 @@ lazy-object-proxy==1.4.2
 ldap3==2.5.2
 lesscpy==0.13.0
 lightgbm==2.2.3
-lxml==4.3.1
+lxml==4.6.2
 Markdown==3.1
 MarkupSafe==1.1.0
 marshmallow==2.19.5
